@@ -25,8 +25,8 @@ public class MqttHelper {
 
     final String serverUri = "tcp://test.mosquitto.org:1883";
 
-    final String clientId = "contol1";
-    final String subscriptionTopic = "nikhil_blackqr";
+    final String clientId = "client1";
+    final String subscriptionTopic = "patidar";
 
     final String username = "xxxxxxx";
     final String password = "yyyyyyy";
